@@ -23,6 +23,7 @@
 挨	挨	aai1
 隘	隘	aai3
 軛	轭	aak1
+啱 啱 aam1/ngaam1
 俺	俺	aan2
 晏	晏	aan3
 罌	罂	aang1
@@ -238,6 +239,7 @@
 菠	菠	bo1
 簸	簸	bo3
 播	播	bo3
+噃 噃 bo3
 膊	膊	bok3
 博	博	bok3
 搏	搏	bok3
@@ -497,6 +499,7 @@
 魑	魑	ci1
 眵	眵	ci1
 螭	螭	ci1
+黐 黐 ci1
 蚩	蚩	ci1
 笞	笞	ci1
 跐	跐	ci1
@@ -863,6 +866,7 @@
 豆	豆	dau6/dau2
 爹	爹	de1
 嗲	嗲	de2
+哋 哋 dei2/dei6
 地	地	dei6
 糴	籴	dek6
 笛	笛	dek6
@@ -1312,6 +1316,7 @@
 價	价	gaa3
 架	架	gaa3
 咖	咖	gaa3
+㗎 㗎 gaa4/gaa3
 皆	皆	gaai1
 佳	佳	gaai1
 偕	偕	gaai1
@@ -1408,6 +1413,7 @@
 感	感	gam2
 錦	锦	gam2
 橄	橄	gam2
+咁 咁 gam2/gam3
 禁	禁	gam3
 淦	淦	gam3
 噤	噤	gam3
@@ -1436,6 +1442,7 @@
 埂	埂	gang2
 亙	亘	gang2
 哽	哽	gang2
+梗	梗	gang2
 鯁	鲠	gang2/kang2
 更	更	gang3
 急	急	gap1
@@ -1470,6 +1477,7 @@
 廄	厩	gau3
 究	究	gau3
 舊	旧	gau6
+嘅 嘅 ge3/koi3
 磯	矶	gei1
 乩	乩	gei1
 箕	箕	gei1
@@ -1589,6 +1597,7 @@
 歌	歌	go1
 旮	旮	go1/gok3
 菏	菏	go1/ho4
+嗰 嗰 go2
 個	个	go3
 腳	脚	goek3
 姜	姜	goeng1
@@ -1875,6 +1884,7 @@
 效	效	haau6
 傚	傚	haau6
 校	校	haau6
+喺 喺 hai2
 奚	奚	hai4
 鼷	鼷	hai4
 兮	兮	hai4
@@ -2289,6 +2299,7 @@
 冶	冶	je5
 惹	惹	je5
 野	野	je5
+嘢 嘢 je5
 夜	夜	je6
 偌	偌	je6
 贏	赢	jeng4
@@ -3102,6 +3113,7 @@
 璃	璃	lei4
 罹	罹	lei4
 狸	狸	lei4
+嚟 嚟 lei4
 梨	梨	lei4
 邐	逦	lei5
 鯉	鲤	lei5
@@ -3120,6 +3132,7 @@
 莉	莉	lei6
 痢	痢	lei6
 猁	猁	lei6
+叻 叻 lek1
 靚	靓	leng3
 嫘	嫘	leoi4
 羸	羸	leoi4
@@ -3402,6 +3415,7 @@
 亂	乱	lyun6
 捋	捋	lyut3
 劣	劣	lyut3/lyut6
+唔 唔 m4/ng4
 媽	妈	maa1
 嬤	嬷	maa1
 嗎	吗	maa1/maa3
@@ -4181,6 +4195,7 @@
 徙	徙	saai2
 璽	玺	saai2
 曬	晒	saai3
+晒 晒 saai3
 索	索	saak3/sok3
 叄	叁	saam1
 仨	仨	saam1
@@ -5126,6 +5141,7 @@
 窠	窠	wo1/fo1
 和	和	wo4
 禾	禾	wo4
+喎 喎 wo5/wo3
 禍	祸	wo6
 穫	获	wok6
 鑊	镬	wok6
